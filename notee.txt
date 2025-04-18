@@ -1,0 +1,74 @@
+git clone (đường dẫn bên git )
+
+git init
+  
+                                      working directory (my code)
+git add .                             
+                                        staging area
+git commit -m "cmt"                      
+	                                  repository
+
+      --- git remote add origin <url kho github>  -- khi muốn tạo cái mới a
+git push -u origin main
+                                        git local
+
+-----------------------------------------------------------------------
+
+https://docs.google.com/document/d/1SB6eCtfkZdD4lTwfdVpHGNp62R1g32eRqHbfb4a5XZ0/edit?tab=t.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+câu lênh trong sourcetree
+
+khi nhấn commit xong phải cmt lệnh ''the first commit''
+second commit
+
+
+
+
+
+dotnet new console
