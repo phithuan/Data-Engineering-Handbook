@@ -1,0 +1,2 @@
+# Ignore PostgreSQL data folder  Dòng này sẽ báo cho Git bỏ qua toàn bộ thư mục postgres_data và các file bên trong.
+week_1_basic_n_setup/postgres_data/
