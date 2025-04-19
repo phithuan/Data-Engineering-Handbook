@@ -19,6 +19,8 @@ https://docs.google.com/document/d/1SB6eCtfkZdD4lTwfdVpHGNp62R1g32eRqHbfb4a5XZ0/
 
 
 
+docker run -it -v "E:\Data-Engineering-Handbook\week_1_basic_n_setup\data\CSV\yellow_tripdata_2025-01.csv:/app/yellow_tripdata_2025-01.csv" ny_taxi_ingest:v001 --local=False --user=root --password=root --host=modest_panini.orb.local --port=5432 --db=ny_taxi --table_name=yellow_taxi_trips_2025_01 --csv_file=yellow_tripdata_2025-01.csv
+
 
 
 
