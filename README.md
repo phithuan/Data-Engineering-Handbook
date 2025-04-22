@@ -25,7 +25,7 @@ The process includes building a Docker image, running containers via Docker Comp
 ### ✅ Step 1: Launch PostgreSQL and pgAdmin with Docker Compose
 
 Make sure [Docker Desktop](https://www.docker.com/products/docker-desktop/) is installed and running.
-
+Collect this [docker-compose.yaml] file
 In **PowerShell** or **Terminal**, navigate to your working directory and run:
 
 ```bash
